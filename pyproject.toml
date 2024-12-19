@@ -1,7 +1,7 @@
 [project]
 name = "gym"
 authors = [
-    { name = "SHWETA", email = "shwetagupta@23navgrukul.org"}
+    { name = "SHWE", email = "shwetagupta@23navgurukul.org"}
 ]
 description = "Manage Gym in frappe"
 requires-python = ">=3.10"

@@ -1,8 +1,8 @@
 app_name = "gym"
 app_title = "Gym"
-app_publisher = "SHWETA"
+app_publisher = "SHWE"
 app_description = "Manage Gym in frappe"
-app_email = "shwetagupta@23navgrukul.org"
+app_email = "shwetagupta@23navgurukul.org"
 app_license = "mit"
 # required_apps = []
 
